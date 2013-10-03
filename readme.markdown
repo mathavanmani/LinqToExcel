@@ -1,3 +1,4 @@
+Sat
 # Welcome to the LinqToExcel project
 
 Linq to Excel is a .Net library that allows you to query Excel spreadsheets using the LINQ syntax.
